@@ -1,1 +1,1 @@
-*.lua linguist-detectable=true
+*.lua linguist-detectable=true linguist-language=Lua linguist-generated=false linguist-vendored=false linguist-data=false linguist-documentation=false
